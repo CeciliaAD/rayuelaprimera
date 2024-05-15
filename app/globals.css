@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+ */
+
+ p {
+  color: white;
+ }
